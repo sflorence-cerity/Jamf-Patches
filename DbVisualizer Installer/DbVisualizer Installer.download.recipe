@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created with Recipe Robot v2.1.0 (https://github.com/homebysix/recipe-robot)</string>
+	<string>Created with Recipe Robot v2.2.0 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
 	<string>Downloads the latest version of DbVisualizer Installer.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.download.DbVisualizerInstaller</string>
+	<string>jamf-patches.download.DbVisualizerInstaller</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -23,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>url</key>
-				<string>https://dbvis.com/product_download/dbvis-11.0.5/media/dbvis_macos_11_0_5_jre.dmg</string>
+				<string>https://www.dbvis.com/product_download/dbvis-11.0.6/media/dbvis_macos_11_0_6_jre.dmg?_ga=2.157448121.2077223320.1610046102-2054039348.1610046102</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
